@@ -1,7 +1,7 @@
 # Pathfinding Visualizers (React and Python Versions)
 
-React:
+## React:
 ![Finding example](/pathfinder.gif)
 
-Python:
+## Python:
 ![Finding example](/.gif)
