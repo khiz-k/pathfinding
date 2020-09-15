@@ -1,4 +1,4 @@
-# Just A*
+# Just A* pathfinding
 
 import pygame
 import math
