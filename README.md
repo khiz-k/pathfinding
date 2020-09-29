@@ -8,13 +8,13 @@
 </h4>
 
 
-## React (https://khiz-pathfinder.netlify.app/):
+<h2 align="center">React (https://khiz-pathfinder.netlify.app/): </h2>
 <p align="center">
   <img  src="/pathfinder-final.gif"
  alt="React Pathfinder Example"/>
 </p>
 
-## Python:
+<h2 align="center">Python </h2>
   <p align="center">
 <img  src="/python-pathfinder.gif"
  alt="Python Pathfinder Example"/>
