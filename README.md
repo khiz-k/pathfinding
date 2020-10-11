@@ -1,5 +1,5 @@
 <h1 align="center">Pathfinding Visualizers</h1>
-<h4 align="center">Algorithmically find paths from one location to another.  Similar to maps/google maps.</h4>
+<h4 align="center">Algorithmically find paths from one location to another.  Similar to Google maps.</h4>
 <p align="center">React&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;</p>
 <h4 align="center">
   <img src="https://travis-ci.org/CCOSTAN/Home-AssistantConfig.svg?branch=master"/>
